@@ -2,7 +2,7 @@
 ## How to Use
 1. Clone the repository:
    
-   git clone <repository_url>
+   git clone https://github.com/Areejmohamed1/Houses_prices_prediction_model.git
   
 2. Navigate to the project directory:
    
